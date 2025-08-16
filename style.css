@@ -1,0 +1,153 @@
+body{
+  width: 1440px;
+  height: 1024px;
+}
+.a1{
+  width: 240px;
+  height: 240px;
+  background-color: rgb(153,93, 181 );
+  display: flex;
+  gap: 8px;
+  padding: 8px ;
+  border-radius: 8px;
+  border: 1px solid black;
+  
+}
+.a2{
+  width: 50px;
+  height: 50px;
+  background-color: rgb(247, 148, 31);
+  border-radius: 8px;
+  border: 1px solid black;
+}
+.a3{
+    width: 240px;
+  height: 240px;
+  background-color: rgb(153,93, 181 );
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 8px ;
+  border-radius: 8px;
+  border: 1px solid black;
+}
+.container{
+ display: flex;
+ flex-wrap: wrap ;
+ 
+ gap: 67px;
+
+}
+.a4{
+ width: 240px;
+  height: 240px;
+  background-color: rgb(153,93, 181 );
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 8px;
+  border-radius: 8px;
+  border: 1px solid black;
+
+}
+.a5{
+   width: 240px;
+  height: 240px;
+  background-color: rgb(153,93, 181 );
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 8px;
+  border-radius: 8px;
+  border: 1px solid black;
+
+}
+.a6{
+  width: 240px;
+  height: 240px;
+  background-color: rgb(153,93, 181 );
+  display: flex;
+  justify-content: flex-start;
+  gap: 8px;
+  padding: 8px;
+  border-radius: 8px;
+  border: 1px solid black;
+}
+.a7{
+   width: 240px;
+  height: 240px;
+  background-color: rgb(153,93, 181 );
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  padding: 8px;
+  border-radius: 8px;
+  border: 1px solid black;
+
+}
+.a8{
+  width: 240px;
+  height: 240px;
+  background-color: rgb(153,93, 181 );
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  padding: 8px;
+  border-radius: 8px;
+  border: 1px solid black;
+
+}
+.a9{
+    width: 240px;
+  height: 240px;
+  background-color: rgb(153,93, 181 );
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 8px;
+  border-radius: 8px;
+  border: 1px solid black;
+
+
+}
+.a10{
+      width: 240px;
+  height: 240px;
+  background-color: rgb(153,93, 181 );
+  display: flex;
+ align-items: end;
+  gap: 8px;
+  padding: 8px;
+  border-radius: 8px;
+  border: 1px solid black;
+
+
+
+}
+.a11{
+   width: 240px;
+  height: 240px;
+  background-color: rgb(153,93, 181 );
+  display: flex;
+ align-items: center;
+  gap: 8px;
+  padding: 8px;
+  border-radius: 8px;
+  border: 1px solid black;
+
+
+
+}
+.a12{
+    width: 240px;
+  height: 240px;
+  background-color: rgb(153,93, 181 );
+  display: flex;
+  justify-content: space-around;
+  gap: 8px;
+  padding: 8px;
+  border-radius: 8px;
+  border: 1px solid black;
+
+
+}
